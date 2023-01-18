@@ -3,22 +3,22 @@
 - title: PROGRAM
   items:
     #- title: Schedule
-      url : /schedule/
+    #   url : /schedule/
     #- title: Keynotes
       #url : /
     #- title: Training
-      url : /trainings/
+     # url : /trainings/
     #- title: Event Images
-      url : /media/
+      #url : /media/
    #- title: Training
-      url:
+     # url:
    - title: Call for Trainers
      url: https://owasp.submittable.com/submit/247876/2023-global-appsec-dc-cft
    - title: Call for Papers
      url: https://owasp.submittable.com/submit/248452/2023-global-appsec-dc-cfp
 - title: EXHIBIT
   items:
-    - title: Exhibitor Prospectus - Coming Soon
+    #- title: Exhibitor Prospectus - Coming Soon
       #url: /assets/files/Global_AppSec_SF_Exhibitor_Sponsorship.pdf
     #- title: Exhibitors & Sponsors
       #url: /sponsors
@@ -32,6 +32,6 @@
     - title: OWASP Merchandise
       url: https://owasp.org/store
     #- title: Hotel Booking 
-      url: 
+    #  url: 
     - title: Event Code of Conduct
       url: /event/codeofconduct/
