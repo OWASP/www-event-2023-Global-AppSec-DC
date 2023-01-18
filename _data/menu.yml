@@ -2,34 +2,36 @@
   url: /
 - title: PROGRAM
   items:
-    - title: Schedule
+    #- title: Schedule
       url : /schedule/
     #- title: Keynotes
       #url : /
-    - title: Training
+    #- title: Training
       url : /trainings/
-    - title: Event Images
+    #- title: Event Images
       url : /media/
    #- title: Training
-   #  url: https://www.eventbrite.com/e/2022-owasp-global-appsec-us-tickets-368464044877
-    #- title: Call for Papers - CLOSED
-      #url: https://owasp.submittable.com/submit/228824/2022-global-appsec-san-francisco-cfp
+      url:
+   - title: Call for Trainers
+     url: https://owasp.submittable.com/submit/247876/2023-global-appsec-dc-cft
+   - title: Call for Papers
+     url: https://owasp.submittable.com/submit/248452/2023-global-appsec-dc-cfp
 - title: EXHIBIT
   items:
-    - title: Exhibitor Prospect
-      url: /assets/files/Global_AppSec_SF_Exhibitor_Sponsorship.pdf
-    - title: Exhibitors & Sponsors
-      url: /sponsors
-    - title: Exhibitor Kit
-      url: /exhibitordetails/
+    - title: Exhibitor Prospectus - Coming Soon
+      #url: /assets/files/Global_AppSec_SF_Exhibitor_Sponsorship.pdf
+    #- title: Exhibitors & Sponsors
+      #url: /sponsors
+    #- title: Exhibitor Kit
+      #url: /exhibitordetails/
 - title: ABOUT
   #url: /about/
   items:
     - title: Volunteer
-      url: /volunteer/
+      url: https://owasp.wufoo.com/forms/2023-global-appsec-dc-volunteer-submission/
     - title: OWASP Merchandise
       url: https://owasp.org/store
-    - title: Hotel Booking 
-      url: https://www.hyatt.com/en-US/group-booking/SFORS/G-WAS1
+    #- title: Hotel Booking 
+      url: 
     - title: Event Code of Conduct
       url: /event/codeofconduct/
