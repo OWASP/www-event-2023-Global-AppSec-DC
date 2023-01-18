@@ -7,7 +7,7 @@ registration_url: https://www.eventbrite.com/e/owasp-global-appsec-washington-dc
 logo_url: https://owasp.org/
 venue: Marriott Marquis Washington DC
 location: 901 Massachusetts Avenue, NW, Washington, DC 20001 USA
-background: /assets/images/AppSec_DC_2023_Banner_1200x300_V01.jpeg
+background: AppSec_DC_2023_Banner_1200x300_V01.jpeg
 background-style: 'linear-gradient(to right, #242158 50%, #84282b 50%)'
 background-padding: 0em 2em 0em 2em
 keynotestextcolor: fff
