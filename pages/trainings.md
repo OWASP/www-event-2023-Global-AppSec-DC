@@ -14,8 +14,8 @@ permalink: /trainings/
 2-day course: $1700<br>
 3-day course: $2550<br>
 
-All training will be held at the Hyatt Regency San Francisco 5 Embarcadero Center
-San Francisco, California 94111 United States. 
+All training will be held at the Marriott Marquis Washington DC, 901 Massachusetts Avenue, NW, Washington, DC 20001 USA
+
 <br><br>
 3-day training courses will be held November 14-16<br>
 2-day training courses will be held November 15-16<br>

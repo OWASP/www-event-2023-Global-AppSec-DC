@@ -1,6 +1,6 @@
 ---
 
-title: Global AppSec San Francisco 2022 Pictures
+title: Global AppSec DC 2023 Pictures
 layout: event_noheader
 tags: event images
 permalink: /media/

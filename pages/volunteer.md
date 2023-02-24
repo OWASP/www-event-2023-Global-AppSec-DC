@@ -28,15 +28,14 @@ Global AppSec volunteers are expected to implement the following functions durin
 + Ensure participants’ compliance with the OWASP's [Global AppSec Code of Conduct](https://sf.globalappsec.org/event/codeofconduct/) 
 
 **Checklist Task/Deadline**
-+ [Register](https://www.eventbrite.com/e/2022-owasp-global-appsec-us-tickets-368464044877) ASAP
-+ [Book your hotel room](https://www.hyatt.com/en-US/group-booking/SFORS/G-WAS1) ASAP
++ [Register](https://www.eventbrite.com/e/owasp-global-appsec-washington-dc-2023-tickets-519195877847) ASAP
++ [Book your hotel room](TBA) ASAP
 + Volunteer Check-in 15 minutes before shift with Volunteer Coordinator at the Registration booth
 
 **Preparing for the Conference**
-+ [Register](https://www.eventbrite.com/e/2022-owasp-global-appsec-us-tickets-368464044877): It is critical that you register. Discount codes will be distributed to confirmed volunteers.
-+ [Book your hotel room](https://www.hyatt.com/en-US/group-booking/SFORS/G-WAS1): OWASP has a room block for Global AppSec San Francisco 2022. To book a room at the conference hotel use the link above.
-+ Full Conference Passes include: Coffee and lunch on Thursday, Novmeber 17th & Friday, November 18th, access to the conference talks & expo area, social events, and conference activities.
++ [Register](https://www.eventbrite.com/e/owasp-global-appsec-washington-dc-2023-tickets-519195877847): It is critical that you register. Discount codes will be distributed to confirmed volunteers.
++ [Book your hotel room](TBA): OWASP has a room block for Global AppSec DC 2023. To book a room at the conference hotel use the link above.
++ Full Conference Passes include: Coffee and lunch on Thursday, November 17th & Friday, November 18th, access to the conference talks & expo area, social events, and conference activities.
 
 **Event Location** 
-+ Hyatt Regency San Francisco 5 Embarcadero Center San Francisco, California 94111 United States
-
++ Marriott Marquis Washington DC, 901 Massachusetts Avenue, NW, Washington, DC 20001 USA

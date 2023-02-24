@@ -5,19 +5,23 @@ layout: event_noheader
 permalink: /event/codeofconduct/
 
 ---
-**2022 Global AppSec San Francisco Event Code of Conduct**
 
-**NOTE: It is MANDATORY that masks be worn during the OWASP Global AppSec San Francisco Conference**
+## 2023 Global AppSec DC Event Code of Conduct
+
+**NOTE: It is MANDATORY that masks be worn during the OWASP Global AppSec DC Conference**
 
 All attendees, speakers, sponsors, and volunteers at our conference are required to agree to the following code of conduct. Organizers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everybody.
 
-**Need Help?**
+### Need Help?
+
 Find any of the event volunteers or staff members to help you in any situation.
 
-**The Quick Version**
+### The Quick Version
+
 Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, race, religion, etc… We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter, and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
 
-**The Less Quick Version**
+### The Less Quick Version
+
 + Harassment includes, but is not limited to, offensive verbal comments related to gender, race, religion, technology choices, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 + Participants asked to stop any harassing behavior are expected to comply immediately.
 + Sponsors are also subject to the anti-harassment policy. In particular, sponsors should not use sexualized images, activities, or other material.
