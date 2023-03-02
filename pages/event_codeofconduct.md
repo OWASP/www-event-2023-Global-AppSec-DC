@@ -8,8 +8,6 @@ permalink: /event/codeofconduct/
 
 ## 2023 Global AppSec DC Event Code of Conduct
 
-**NOTE: It is MANDATORY that masks be worn during the OWASP Global AppSec DC Conference**
-
 All attendees, speakers, sponsors, and volunteers at our conference are required to agree to the following code of conduct. Organizers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everybody.
 
 ### Need Help?
