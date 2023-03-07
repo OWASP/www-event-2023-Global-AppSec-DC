@@ -1,11 +1,14 @@
-#- image: SimonBennetts.jpeg
-  #name: Simon Bennetts
+- image: jackie_singh_headshot.jpg
+  name: Jackie Singh
   #title: 
-  #bio: >- 
-       Simon Bennetts released OWASP ZAP in 2010 and since then has shepherded it to become the world's most popular web vulnerability scanner.
-       He is very active in OWASP and sits on the OWASP Project Committee. He has talked about and demonstrated ZAP at conferences all over the world, 
-       including Blackhat, JavaOne, FOSDEM and OWASP AppSec EU, USA & AsiaPac. Prior to making the move into security he was a developer for 25 years 
-       and strongly believes that you cannot build secure web applications without knowing how to attack them.
+  bio: >- 
+       Jackie Singh is an American security consultant whose technology interests began at an early age-she was once an active participant in an established New York City hacker/cyberpunk collective.
+
+Jackie began her professional career in the U.S. Army and first deployed to Iraq as a young idealist in 2003. She then spent the better part of that decade working in Iraq and Africa in cleared roles. Jackie previously founded a boutique cybersecurity consultancy, Spyglass Security, and has held several significant roles in defensive cybersecurity, including Principal Consultant at Mandiant and FireEye, Global Director of Incident Response at Intel Security and McAfee, and Senior Incident Response & Threat Analyst on the campaign to elect Joe Biden and Kamala Harris in 2020.
+
+Jackie joined the Surveillance Technology Oversight Project in 2021 due to her desire to help counter advancing threats to civil liberties posed by surveillance technologies.
+
+She lives between New York and San Juan with her partner, their daughters, and a goldendoodle named Ziggy.
   #subject: OWASP - Whats the Point?
   #abstract: >-
         Is OWASP Still Relevant?
