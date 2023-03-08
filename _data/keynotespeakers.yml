@@ -11,3 +11,11 @@
        She lives between New York and San Juan with her partner, their daughters, and a goldendoodle named Ziggy.
   #subject: 
   #abstract: 
+- image: brook_schoenfield.jpg
+  name: Brook S.E. (Stephan Eric) Schoenfield
+  title: Truly Global AppSec
+  bio: >- 
+       Books by Brook S.E. Schoenfield include Building In Security At Agile Speed (Auerbach, 2021, co-authored with James Ransome), Secrets Of A Cyber            Security Architect (Auerbach, 2019) and Securing Systems: Applied Security Architecture and Threat Models (CRC Press, 2015). He co-authored The            Threat Modeling Manifesto (2020), Avoiding the Top 10 Security Design Flaws (IEEE, 2014) and Tactical Threat Modeling (SAFECode, 2017). He has              taught 100’s of security architects, and 1000’s have attended his threat modelling trainings. He technically led five AppSec/software security              programs and 4 consulting practices. Mr. Schoenfield is CTO, Resilient Software Security and True Positives' Chief Software Security Strategist. He helps organizations and technical leaders improve their software security practices. He also teaches at the University of Montana.
+  #subject: 
+  abstract: >-
+            Humankind are deep down the software rabbit hole. Billions of us depend upon software that doesn't expose each of us to undue risk. Our                     dependence reaches far beyond those of us rich enough to work from cafes. Herders and subsistence farmers rely on their mobile phones for                   critical services even if these people live outside the "internet bubble". Who writes this software? Tens of millions of programmers across the             globe. Most of these do not work at "Enterprises" or even SMBs (Small Medium Businesses). And yet, every single one of these programmers can               add to our collective AppSec burden, i.e., exploitable conditions. If AppSec is to be truly global, we must embrace the challenges of a world               of software and software developers in order to truly be "global".
