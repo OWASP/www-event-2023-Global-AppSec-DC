@@ -23,3 +23,18 @@
   url: https://www.secureflag.com/
   #backgroundSize: 125px
   type: Gold
+- logo: /assets/images/sponsors/Bright_Logo.png
+  name: Bright Security
+  url: https://brightsec.com/
+  #backgroundSize: 125px
+  type: Gold
+- logo: /assets/images/sponsors/iriusrisk_logo__dark_blue01_2.png
+  name: IriusRisk
+  url: https://www.iriusrisk.com/
+  #backgroundSize: 125px
+  type: Gold
+- logo: /assets/images/sponsors/NowSecure_Logo_Horizontal_Blue.png
+  name: NowSecure
+  url: https://www.nowsecure.com/
+  #backgroundSize: 125px
+  type: Silver
