@@ -43,3 +43,8 @@
   url: https://www.phylum.io/
   #backgroundSize: 125px
   type: Silver
+- logo: /assets/images/sponsors/Semgrep.png
+  name: Semgrep
+  url: https://semgrep.dev/
+  #backgroundSize: 125px
+  type: Silver
