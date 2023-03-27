@@ -3,3 +3,13 @@
   #url: 
   #backgroundSize: 125px
   #type: Diamond
+- logo: /assets/images/sponsors/Arnica_Logo.png
+  name: Arnica
+  url: https://www.arnica.io/
+  #backgroundSize: 125px
+  type: Diamond
+- logo: /assets/images/sponsors/oxeye_rgb_logo__light_1.png
+  name: Oxeye
+  url: https://www.oxeye.io/
+  #backgroundSize: 125px
+  type: Gold
