@@ -38,3 +38,8 @@
   url: https://www.nowsecure.com/
   #backgroundSize: 125px
   type: Silver
+- logo: /assets/images/sponsors/Phylum.png
+  name: Phylum, Inc.
+  url: https://www.phylum.io/
+  #backgroundSize: 125px
+  type: Silver
