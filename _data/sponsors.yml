@@ -18,3 +18,8 @@
   url: https://www.mobb.dev/
   #backgroundSize: 125px
   type: Start-Up
+- logo: /assets/images/sponsors/secureflagposhighres_copy.png
+  name: SecureFlag
+  url: https://www.secureflag.com/
+  #backgroundSize: 125px
+  type: Gold
