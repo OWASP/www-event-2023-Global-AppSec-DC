@@ -58,3 +58,34 @@
   url: https://www.corellium.com/
   #backgroundSize: 125px
   type: Gold
+- logo: /assets/images/sponsors/ArmorCode.png
+  name: ArmorCode
+  url: https://www.armorcode.com/
+  #backgroundSize: 125px
+  type: Gold
+- logo: /assets/images/sponsors/deepfactor_fulllogo_300x90.png
+  name: Deepfactor
+  url: https://www.deepfactor.io/
+  #backgroundSize: 125px
+  type: Silver
+- logo: /assets/images/sponsors/GuidePointSecurity.png
+  name: GuidePoint Security
+  url: https://www.guidepointsecurity.com/
+  #backgroundSize: 125px
+  type: Gold
+- logo: /assets/images/sponsors/ENDOR.png
+  name: Endor Labs
+  url: https://www.endorlabs.com/
+  #backgroundSize: 125px
+  type: Start-Up
+- logo: /assets/images/sponsors/Bearer.svg
+  name: Bearer
+  url: https://www.bearer.com/
+  #backgroundSize: 125px
+  type: Lunch
+- logo: /assets/images/sponsors/Tromzo.jpeg
+  name: Tromzo
+  url: https://tromzo.com/
+  #backgroundSize: 125px
+  type: Start-Up
+
