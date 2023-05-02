@@ -88,4 +88,14 @@
   url: https://tromzo.com/
   #backgroundSize: 125px
   type: Start-Up
-
+- logo: /assets/images/sponsors/ImpartSecurityLogo.jpeg
+  name: Impart Security
+  url: https://www.impart.security/
+  #backgroundSize: 125px
+  type: Start-Up
+- logo: /assets/images/sponsors/mend_logo.svg
+  name: Mend
+  url: https://www.mend.io/
+  #backgroundSize: 125px
+  type: Gold
+  
