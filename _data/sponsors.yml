@@ -98,4 +98,8 @@
   url: https://www.mend.io/
   #backgroundSize: 125px
   type: Gold
-  
+- logo: /assets/images/sponsors/EnsoSecurity.png
+  name: Enso Security
+  url: https://www.enso.security/
+  #backgroundSize: 125px
+  type: Silver
