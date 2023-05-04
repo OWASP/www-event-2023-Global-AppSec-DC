@@ -2,9 +2,9 @@
   url: /
 - title: PROGRAM
   items:
-    - title: Schedule
-      url: https://owasp2023globalappsecwashin.sched.com/editor/schedule
-   #- title: Keynotes
+   - title: Schedule
+     url: https://owasp2023globalappsecwashin.sched.com/editor/schedule
+     #- title: Keynotes
       #url: /
    #- title: Training
      # url : /trainings/
