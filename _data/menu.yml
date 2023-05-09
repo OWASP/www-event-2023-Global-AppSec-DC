@@ -3,7 +3,7 @@
 - title: PROGRAM
   items:
    - title: Schedule
-     url: <a id="sched-embed" href="//owasp2023globalappsecwashin.sched.com/">View the OWASP 2023 Global AppSec Washington, DC schedule &amp; directory.</a><script type="text/javascript" src="//owasp2023globalappsecwashin.sched.com/js/embed.js"></script>
+     url: https://owasp2023globalappsecwashin.sched.com/
      #- title: Keynotes
       #url: /
    #- title: Training
