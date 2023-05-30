@@ -103,3 +103,33 @@
   url: https://www.enso.security/
   #backgroundSize: 125px
   type: Silver
+- logo: /assets/images/sponsors/Backslash.png
+  name: Backslash Security
+  url: https://www.backslash.security/
+  #backgroundSize: 125px
+  type: Start Up
+- logo: /assets/images/sponsors/DryRunSecurity.png
+  name: DryRun Security
+  url: https://dryrun.security/
+  #backgroundSize: 125px
+  type: Start Up
+- logo: /assets/images/sponsors/FOSSA.png
+  name: FOSSA
+  url: https://fossa.com/
+  #backgroundSize: 125px
+  type: Gold
+- logo: /assets/images/sponsors/Kondukto.png
+  name: Kondukto
+  url: https://kondukto.io/
+  #backgroundSize: 125px
+  type: Gold
+- logo: /assets/images/sponsors/PaloAltoNetworks.jpeg
+  name: PaloAlto Networks
+  url: https://www.paloaltonetworks.com/
+  #backgroundSize: 125px
+  type: Gold
+- logo: /assets/images/sponsors/
+  name: SNY CUBES
+  url: https://www.syncubes.com/
+  #backgroundSize: 125px
+  type: Start Up
