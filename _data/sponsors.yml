@@ -123,11 +123,6 @@
   url: https://kondukto.io/
   #backgroundSize: 125px
   type: Gold
-- logo: /assets/images/sponsors/PaloAltoNetworks.jpeg
-  name: PaloAlto Networks
-  url: https://www.paloaltonetworks.com/
-  #backgroundSize: 125px
-  type: Gold
 - logo: /assets/images/sponsors/SNYCUBE.png
   name: SNY CUBES
   url: https://www.syncubes.com/
