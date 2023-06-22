@@ -133,3 +133,19 @@
   url: https://www.syncubes.com/
   #backgroundSize: 125px
   type: Start Up
+- logo: /assets/images/sponsors/LegitSecurity.png
+  name: Legit Security
+  url: https://www.legitsecurity.com/
+  #backgroundSize: 125px
+  type: Start Up
+- logo: /assets/images/sponsors/Wallarm.png
+  name: Wallarm
+  url: https://www.wallarm.com/
+  #backgroundSize: 125px
+  type: Gold
+- logo: /assets/images/sponsors/Qwiet_Logo.jpg
+  name: Qwiet.ai
+  url: https://qwiet.ai/
+  #backgroundSize: 125px
+  type: Start Up
+
