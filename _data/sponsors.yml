@@ -143,4 +143,9 @@
   url: https://qwiet.ai/
   #backgroundSize: 125px
   type: Start Up
+- logo: /assets/images/sponsors/Jit_and_Slim_logos.png
+  name: Jit.io
+  url: https://www.jit.io/
+  #backgroundSize: 125px
+  type: Gold
 
