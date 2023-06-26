@@ -163,3 +163,8 @@
   url: https://www.veracode.com/
   #backgroundSize: 125px
   type: Diamond
+- logo: /assets/images/sponsors/Oligo-Security-Logo.png
+  name: Oligo Security
+  url: https://www.oligo.security/
+  #backgroundSize: 125px
+  type: Gold
