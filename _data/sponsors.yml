@@ -158,3 +158,8 @@
   url: https://www.microfocus.com/en-us/home
   #backgroundSize: 125px
   type: Diamond
+- logo: /assets/images/sponsors/veracode.png
+  name: Veracode
+  url: https://www.veracode.com/
+  #backgroundSize: 125px
+  type: Diamond
