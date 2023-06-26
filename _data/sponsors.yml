@@ -153,3 +153,8 @@
   url: https://cycode.com/
   #backgroundSize: 125px
   type: Silver
+- logo: /assets/images/sponsors/Fortify.png
+  name: MicroFocus
+  url: https://www.microfocus.com/en-us/home
+  #backgroundSize: 125px
+  type: Diamond
