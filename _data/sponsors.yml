@@ -173,3 +173,8 @@
   url: https://www.clouddefense.ai/
   #backgroundSize: 125px
   type: Start Up
+- logo: /assets/images/sponsors/gitguardianlogotypehorizontalwhitebackground_1.png
+  name: GitGuardian
+  url: https://www.gitguardian.com/
+  #backgroundSize: 125px
+  type: Gold
