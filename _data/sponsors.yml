@@ -148,4 +148,8 @@
   url: https://www.jit.io/
   #backgroundSize: 125px
   type: Gold
-
+- logo: /assets/images/sponsors/CycodeLogo.png
+  name: Cycode
+  url: https://cycode.com/
+  #backgroundSize: 125px
+  type: Silver
