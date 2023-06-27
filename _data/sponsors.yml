@@ -178,3 +178,8 @@
   url: https://www.gitguardian.com/
   #backgroundSize: 125px
   type: Gold
+- logo: /assets/images/sponsors/synopsys_logo.png
+  name: Synopsys
+  url: https://www.synopsys.com/
+  #backgroundSize: 125px
+  type: Gold
