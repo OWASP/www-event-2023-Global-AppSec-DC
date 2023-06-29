@@ -188,3 +188,9 @@
   url: https://www.rapidfort.com/
   #backgroundSize: 125px
   type: Start Up
+- logo: /assets/images/sponsors/NokodSecurity.png
+  name: Nokod Security
+  url: https://nokodsecurity.com/
+  #backgroundSize: 125px
+  type: Start Up
+  
