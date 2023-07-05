@@ -142,7 +142,7 @@
 #       - name: 
 #         url: 
  - name: Izar Tarandach
-#   url: 
+   url: https://threatmodeling.dev
    company: Datadog
    image: /assets/images/reviewers/avatar (1).jpg
    bio: >-
