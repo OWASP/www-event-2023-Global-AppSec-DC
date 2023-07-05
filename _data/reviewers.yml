@@ -147,8 +147,8 @@
    image: /assets/images/reviewers/avatar (1).jpg
    bio: >-
 #       Izar is now doing the security thing at Datadog. Prior, he was (Interim) Head of Security and Principal Security Architect at Squarespace, and done security stuff at Bridgewater Associates, Autodesk, DellEMC, RSA and a bunch of other places. He was a core contributor to SAFECode and a founding contributor to the IEEE Center for Security Design. He likes big threat models and long walks on the beach, preferably without walking, sand or sea water.
-#   social: 
-#       - name: 
+   social: 
+       - name: "Twitter: @Izar_t"
 #         url: 
 #       - name: 
 #         url: 
