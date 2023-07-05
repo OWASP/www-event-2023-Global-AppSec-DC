@@ -10,7 +10,7 @@
 #       - name: "LinkedIn: martin-knobloch"
 #         url: https://www.linkedin.com/in/martin-knobloch/
 # - name: Harold Blankenship
-#   url: 
+#   url: assets/images/reviewers/hb_headshot (1).png
 #   company: OWASP
 #   image: 
 #   bio: >-
@@ -21,7 +21,7 @@
 #       - name: 
 #         url: 
 # - name: Elastos Chimwanda
-#   url: 
+#   url: assets/images/reviewers/elastos_pic1.jpg
 #   company: 
 #   image: 
 #   bio: >-
@@ -32,7 +32,7 @@
 #       - name: 
 #         url: 
 # - name: Josh Grossman
-#   url: 
+#   url: assets/images/reviewers/josh_headshot_4 (2).jpg
 #   company: Bounce Security
 #   image: 
 #   bio: >-
@@ -43,7 +43,7 @@
 #       - name: 
 #         url: 
 # - name: Shlomo Heigh
-#   url: 
+#   url: assets/images/reviewers/avatar_2.jpg
 #   company: CyberArk
 #   image: 
 #   bio: >-
@@ -54,7 +54,7 @@
 #       - name: 
 #         url: 
 # - name: Aram Hovsepyan
-#   url: 
+#   url: /assets/images/reviewers/profile.jpg
 #   company: Codific
 #   image: 
 #   bio: >-
@@ -65,7 +65,7 @@
 #       - name: 
 #         url: 
 # - name: Meghan Jacquot
-#   url: 
+#   url: /assets/images/reviewers/meghan_jacquot_headshot_ (1).jpg
 #   company: Inspectiv
 #   image: 
 #   bio: >-
@@ -76,7 +76,7 @@
 #       - name: 
 #         url: 
 # - name: Abhinav Khanna
-#   url: 
+#   url: /assets/images/reviewers/9beadd2f9dd34e379110c03b3de3660f.jpeg.jpg
 #   company: NotSoSecure
 #   image: 
 #   bio: >-
@@ -87,7 +87,7 @@
 #       - name: 
 #         url: 
 # - name: Shruti Kulkarni
-#   url: 
+#   url: /assets/images/reviewers/photo__copy.jpeg.jpg
 #   company: 
 #   image: 
 #   bio: >-
@@ -98,7 +98,7 @@
 #       - name: 
 #         url: 
 # - name: John Menerick
-#   url: 
+#   url: /assets/images/reviewers/headshot.jpeg (1).jpg
 #   company: 
 #   image: 
 #   bio: >-
@@ -109,7 +109,7 @@
 #       - name: 
 #         url: 
 # - name: Karl Ots
-#   url: 
+#   url: /assets/images/reviewers/003karlots.jpg
 #   company: 
 #   image: 
 #   bio: >-
@@ -131,7 +131,7 @@
 #       - name: 
 #         url: 
 # - name: Allison Shubert
-#   url: 
+#   url: /assets/images/reviewers/pic_1.jpg
 #   company: 
 #   image: 
 #   bio: >-
@@ -142,7 +142,7 @@
 #       - name: 
 #         url: 
 # - name: Izar Tarandach
-#   url: 
+#   url: /assets/images/reviewers/avatar (1).jpg
 #   company: Datadog
 #   image: 
 #   bio: >-
