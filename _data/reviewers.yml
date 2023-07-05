@@ -9,3 +9,157 @@
 #         url: https://twitter.com/knoblochmartin
 #       - name: "LinkedIn: martin-knobloch"
 #         url: https://www.linkedin.com/in/martin-knobloch/
+# - name: Harold Blankenship
+#   url: 
+#   company: OWASP
+#   image: 
+#   bio: >-
+#       Harold Blankenship, Director of Projects and Technology at the OWASP Foundation, nurtures, manages, facilitates,the volunteer open source programs of the Foundation. 
+#   social: 
+#       - name: 
+#         url: 
+#       - name: 
+#         url: 
+# - name: Elastos Chimwanda
+#   url: 
+#   company: 
+#   image: 
+#   bio: >-
+#       Internal Audit, Information Systems Audit, Cybersecurity Audit and Cloud Security Audit Professional. Advisor to Boards and Audit Committees. 
+#   social: 
+#       - name: 
+#         url: 
+#       - name: 
+#         url: 
+# - name: Josh Grossman
+#   url: 
+#   company: Bounce Security
+#   image: 
+#   bio: >-
+#       Josh has worked as a consultant in IT/Application Security and Risk for 15 years now as well as a Software Developer. In that time he has seen the good, the bad and the stuff which is sadly/luckily still covered by an NDA. He is currently Chief Technology Officer for Bounce Security where he spends his time helping organisations improve and get better value from their Application Security processes and providing specialist Application Security advice. In his spare time he co-leads the OWASP Application Security Verification Standard project and is on the OWASP Israel chapter board.  
+#   social: 
+#       - name: 
+#         url: 
+#       - name: 
+#         url: 
+# - name: Shlomo Heigh
+#   url: 
+#   company: CyberArk
+#   image: 
+#   bio: >-
+#       Shlomo is a senior software engineer at CyberArk. He's a maintainer of the Conjur open source project, a DevSecOps secrets manager that aims to solve the problem of secret leakage in production applications and workloads running on-prem or in the cloud. He's also a member of the CNCF's TAG Security and a contributor to multiple OWASP projects, as well as the leader of the Cincinnati OWASP Chapter. In his spare time he hangs out with his wife and 4-year-old daughter, tinkers with 3D printing, and engages in gardening and woodworking projects.
+#   social: 
+#       - name: 
+#         url: 
+#       - name: 
+#         url: 
+# - name: Aram Hovsepyan
+#   url: 
+#   company: Codific
+#   image: 
+#   bio: >-
+#       Aram is the founder, CEO of Codific and a security and privacy expert. He has over 15 years of professional experience in designing and building complex software systems by explicitly focusing on security. He believes application security is a holistic discipline. Aram has a PhD in cybersecurity from DistriNet, KULeuven which provides him with a broad knowledge of the security landscape. Throughout his academic years he has mainly focused on privacy threat modelling and streamlining the LINDDUN methodology (which is one of the most systematic privacy engineering methodologies and part of the ISO 27550 standard). Aram is now part of the OWASP SAMM core team.
+#   social: 
+#       - name: 
+#         url: 
+#       - name: 
+#         url: 
+# - name: Meghan Jacquot
+#   url: 
+#   company: Inspectiv
+#   image: 
+#   bio: >-
+#       Meghan Jacquot is a Security Engineer with Inspectiv and a curious lifelong learner with a commitment to sharing what she has learned. She is passionate about helping others, speaking at conferences to increase cyber awareness, and is particularly interested in cloud security, threat intelligence, investigating vulnerabilities, and the ethical use of data.  She is President of WiCyS Mid-Atlantic Affiliate, a DEF CON SOC Goon, Staff at The Diana Initiative, a Board Member for Whole Cyber Human Initiative, and a CFP Reviewer and CTF creator for SANS. To relax you also might see her visiting national parks, gardening, or hanging with her chinchilla. She’s happy to connect with others on LinkedIn, Twitter, and on her CarpeDiemT3ch YouTube channel.
+#   social: 
+#       - name: 
+#         url: 
+#       - name: 
+#         url: 
+# - name: Abhinav Khanna
+#   url: 
+#   company: NotSoSecure
+#   image: 
+#   bio: >-
+#       Abhinav is an Information Security professional, having 3+ years of experience in Application Security. He is currently working as an Application Security Engineer at NotSoSecure. 
+#   social: 
+#       - name: 
+#         url: 
+#       - name: 
+#         url: 
+# - name: Shruti Kulkarni
+#   url: 
+#   company: 
+#   image: 
+#   bio: >-
+#       Shruti is a cyber security / enterprise security architect with experience in ISO27001, PCI-DSS, policies, standards, security tools, threat modeling, risk assessments. Shruti works on security strategies and collaborates with cross-functional groups to implement information security controls in software development life-cycle, service operations, service delivery such that security controls support business requirements
+#   social: 
+#       - name: 
+#         url: 
+#       - name: 
+#         url: 
+# - name: John Menerick
+#   url: 
+#   company: 
+#   image: 
+#   bio: >-
+#       John Menerick works at a leading financial institution.  John breaks software and infrastructures for fun, keep busy with research, mentor, and build massive planetary distributed self-healing clouds.  John cherishes enterprise risk management, privacy, security leadership, application security, information security, penetration testing, privacy, anonymity, operational security, agile system administration, DevOps, and outdoor activities. John is inspired by those who blend academic and blackhat hacks. I'm disappointed by those who call a 20-year-old RFC over HTTP innovative. 
+#   social: 
+#       - name: 
+#         url: 
+#       - name: 
+#         url: 
+# - name: Karl Ots
+#   url: 
+#   company: 
+#   image: 
+#   bio: >-
+#       Karl Ots is a cybersecurity expert specializing in cloud application security. Karl is a frequent presenter at events such BSides, ISC2 Congress, InfoSec World and meetups around the world. Karl holds such acronyms as CISSP, MVP and RD. He is the author of Azure Security Handbook.
+#   social: 
+#       - name: 
+#         url: 
+#       - name: 
+#         url: 
+# - name: Sven Schleier
+#   url: 
+#   company: NowSecure
+#   image: 
+#   bio: >-
+#       Sven is the Technical Director of WithSecure (formerly known as F-Secure Consulting) in Singapore, specialized in penetration testing and application security. Next to offensive security engagements he has supported and guided software development projects for Mobile and Web Applications during the whole SDLC to build security in from the start. Besides his day job Sven is one of the core project leaders and authors of the OWASP Mobile Security Testing Guide and OWASP Mobile Application Security Verification Standard and has created the OWASP Mobile Hacking Playground. Sven is giving talks and workshops about Mobile Security worldwide to different audiences, ranging from developers to students and penetration testers.
+#   social: 
+#       - name: 
+#         url: 
+#       - name: 
+#         url: 
+# - name: Allison Shubert
+#   url: 
+#   company: 
+#   image: 
+#   bio: >-
+#       Allison Shubert has over 22 years of experience in information technology.  The last fifteen years of which she has focused on information security.  Allison has extensive experience in application security, security architecture, and risk management.  She holds a Master of Science degree in Information Assurance and serves as a subject matter expert (SME) for the International Information Systems Security Certification Consortium (ISC2) on the certified Information Systems Security Professional (CISSP) and the Certified Secure Software Lifecycle Professional (CSSLP) exams. She is active in her local OWASP chapter and serves on the paper selection committee for  OWASP global conferences.  In her spare time, she is a mother who shuttles her son to sports practices and games.  She enjoys baking and has recently taken up making homemade sourdough bread.
+#   social: 
+#       - name: 
+#         url: 
+#       - name: 
+#         url: 
+# - name: Izar Tarandach
+#   url: 
+#   company: Datadog
+#   image: 
+#   bio: >-
+#       Izar is now doing the security thing at Datadog. Prior, he was (Interim) Head of Security and Principal Security Architect at Squarespace, and done security stuff at Bridgewater Associates, Autodesk, DellEMC, RSA and a bunch of other places. He was a core contributor to SAFECode and a founding contributor to the IEEE Center for Security Design. He likes big threat models and long walks on the beach, preferably without walking, sand or sea water.
+#   social: 
+#       - name: 
+#         url: 
+#       - name: 
+#         url: 
+# - name: Andrew van der Stock
+#   url: 
+#   company: OWASP
+#   image: 
+#   bio: >-
+#       Andrew van der Stock is the Executive Director for the OWASP Foundation where he oversees the administration, programs and strategic plan of the organization. 
+#   social: 
+#       - name: 
+#         url: 
+#       - name: 
+#         url: 
