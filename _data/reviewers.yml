@@ -98,16 +98,16 @@
        - name: 
          url: 
  - name: John Menerick
-   url: 
-   company: 
+   url: https://keyoxide.org/34904984AC278D90AB17FCF599519FE194F7637A
+   company: Syn
    image: /assets/images/reviewers/headshot.jpg
    bio: >-
        John Menerick works at a leading financial institution.  John breaks software and infrastructures for fun, keep busy with research, mentor, and build massive planetary distributed self-healing clouds.  John cherishes enterprise risk management, privacy, security leadership, application security, information security, penetration testing, privacy, anonymity, operational security, agile system administration, DevOps, and outdoor activities. John is inspired by those who blend academic and blackhat hacks. I'm disappointed by those who call a 20-year-old RFC over HTTP innovative. 
    social: 
-       - name: 
-         url: 
-       - name: 
-         url: 
+       - name: "Tik Tok: w8mej"
+         url: https://www.tiktok.com/@w8mej
+       - name: "Threads: w8mej"
+         url: https://www.threads.net/@w8mej
  - name: Karl Ots
    url: https://www.karlots.com/
    company: EPAM Systems
