@@ -32,16 +32,16 @@
        - name: 
          url: 
  - name: Josh Grossman
-   url: 
+   url: https://joshcgrossman.com
    company: Bounce Security
    image: /assets/images/reviewers/josh_headshot_4.jpg
    bio: >-
        Josh has worked as a consultant in IT/Application Security and Risk for 15 years now as well as a Software Developer. In that time he has seen the good, the bad and the stuff which is sadly/luckily still covered by an NDA. He is currently Chief Technology Officer for Bounce Security where he spends his time helping organisations improve and get better value from their Application Security processes and providing specialist Application Security advice. In his spare time he co-leads the OWASP Application Security Verification Standard project and is on the OWASP Israel chapter board.  
    social: 
-       - name: 
-         url: 
-       - name: 
-         url: 
+       - name: "Twitter: @JoshCGrossman"
+         url: https://twitter.com/JoshCGrossman
+       - name: "LinkedIn: JoshCGrossman"
+         url: https://www.linkedin.com/in/joshcgrossman/
  - name: Shlomo Heigh
    url: 
    company: CyberArk
