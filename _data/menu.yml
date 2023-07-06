@@ -28,6 +28,8 @@
 - title: ABOUT
   #url: /about/
   items:
+    - title: Review Team
+      url: https://dc.globalappsec.org/reviewers/    
     - title: Hotel Reservations
       url: https://book.passkey.com/event/50528867/owner/10764415/home
     - title: Volunteer
