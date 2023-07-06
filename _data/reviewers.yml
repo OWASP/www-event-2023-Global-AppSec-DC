@@ -115,8 +115,8 @@
    bio: >-
        Karl Ots is a cybersecurity expert specializing in cloud application security. Karl is a frequent presenter at events such BSides, ISC2 Congress, InfoSec World and meetups around the world. Karl holds such acronyms as CISSP, MVP and RD. He is the author of Azure Security Handbook.
    social: 
-       - name: 
-         url: 
+       - name: "LinkedIn: Karl Ots"
+         url: https://www.linkedin.com/in/karlots/
        - name: 
          url: 
  - name: Sven Schleier
