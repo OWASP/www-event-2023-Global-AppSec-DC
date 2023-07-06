@@ -49,8 +49,8 @@
    bio: >-
        Shlomo is a senior software engineer at CyberArk. He's a maintainer of the Conjur open source project, a DevSecOps secrets manager that aims to solve the problem of secret leakage in production applications and workloads running on-prem or in the cloud. He's also a member of the CNCF's TAG Security and a contributor to multiple OWASP projects, as well as the leader of the Cincinnati OWASP Chapter. In his spare time he hangs out with his wife and 4-year-old daughter, tinkers with 3D printing, and engages in gardening and woodworking projects.
    social: 
-       - name: 
-         url: 
+       - name: "LinkedIn: Szheigh"
+         url: https://www.linkedin.com/in/szheigh
        - name: 
          url: 
  - name: Aram Hovsepyan
