@@ -121,13 +121,13 @@
          url: 
  - name: Sven Schleier
    url: 
-   company: NowSecure
-   image: 
+   company: OWASP MAS Project Co-Lead
+   image: assets/images/reviewers/Sven_Headshot (1).pdf
    bio: >-
-       Sven is the Technical Director of WithSecure (formerly known as F-Secure Consulting) in Singapore, specialized in penetration testing and application security. Next to offensive security engagements he has supported and guided software development projects for Mobile and Web Applications during the whole SDLC to build security in from the start. Besides his day job Sven is one of the core project leaders and authors of the OWASP Mobile Security Testing Guide and OWASP Mobile Application Security Verification Standard and has created the OWASP Mobile Hacking Playground. Sven is giving talks and workshops about Mobile Security worldwide to different audiences, ranging from developers to students and penetration testers.
+       Sven is one of the core project leaders and authors of the OWASP Mobile Application Security Testing Guide (MASTG) and OWASP Mobile Application Security Verification Standard (MASVS) and has created the OWASP Mobile Hacking Playground.  Sven is giving talks and workshops about Mobile Security worldwide to different audiences, ranging from developers to students and penetration testers.
    social: 
-       - name: 
-         url: 
+       - name: "LinkedIn: Sven Schleier"
+         url: https://www.linkedin.com/in/sven-schleier/ 
        - name: 
          url: 
  - name: Allison Shubert
