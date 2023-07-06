@@ -54,16 +54,16 @@
        - name: 
          url: 
  - name: Aram Hovsepyan
-   url: 
+   url: https://www.linkedin.com/in/aramhovsep/
    company: Codific
    image: /assets/images/reviewers/profile.jpg
    bio: >-
        Aram is the founder, CEO of Codific and a security and privacy expert. He has over 15 years of professional experience in designing and building complex software systems by explicitly focusing on security. He believes application security is a holistic discipline. Aram has a PhD in cybersecurity from DistriNet, KULeuven which provides him with a broad knowledge of the security landscape. Throughout his academic years he has mainly focused on privacy threat modelling and streamlining the LINDDUN methodology (which is one of the most systematic privacy engineering methodologies and part of the ISO 27550 standard). Aram is now part of the OWASP SAMM core team.
    social: 
-       - name: 
-         url: 
-       - name: 
-         url: 
+       - name: "Twitter: @codific_eu"
+         url: https://twitter.com/codific_eu
+       - name: "LinkedIn: AramHovsep"
+         url: https://www.linkedin.com/in/aramhovsep/
  - name: Meghan Jacquot
    url: 
    company: Inspectiv
