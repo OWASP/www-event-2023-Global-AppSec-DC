@@ -81,14 +81,9 @@ This packet provides essential information, including preparing for the event, r
 
 ### Details at a Glance
 
-+ Exhibit Show Dates & Hours
-+ Monday, October 30, 8am-7:30pm (Networking Reception held in the Expo Hall from 5:30pm-7:30pm)
-+ Tuesday, October 31, 8am-5pm 
-
-### Show Location
-
-+ Marriott Marquis Washington DC, 901 Massachusetts Avenue, NW, Washington, DC 20001 USA
-
++ Show location: Marriott Marquis Washington DC, 901 Massachusetts Avenue, NW, Washington, DC 20001 USA
++ Exhibit Show Dates & Hours: Monday, October 30, 8am-7:30pm (Networking Reception held in the Expo Hall from 5:30pm-7:30pm) and Tuesday, October 31, 8am-5pm
+  
 ### OTHER QUESTIONS?
 
 + Is there something we missed? Please Contact Us at [events@owasp.com](mailto:events@owasp.com)
