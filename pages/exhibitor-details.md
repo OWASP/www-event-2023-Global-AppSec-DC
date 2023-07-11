@@ -75,7 +75,7 @@ Shared conference Wi-Fi will be available. Please ask for the network and passwo
 ### Travel Information
 + Coming soon
 
-**Contact Information**
+### Contact Information
 
 + Kelly Santalucia, OWASP Foundation [kelly.santalucia@owasp.com](mailto:kelly.santalucia@owasp.com)
 + Lauren Thomas, OWASP Foundation [lauren.thomas@owasp.com](mailto:lauren.thomas@owasp.com)
