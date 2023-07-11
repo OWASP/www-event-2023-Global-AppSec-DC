@@ -46,9 +46,7 @@ This packet provides essential information, including preparing for the event, r
 
 + Event Location: Marriott Marquis Washington DC, 901 Massachusetts Avenue, NW, Washington, DC 20001 USA
 + Vendor Check-in and Set-up: Sunday, October 29, 6pm
-+ Exhibitor Area Hours:
-+ Monday, October 30, 8am-7:30pm
-+ Tuesday, October 31, 8am-5pm
++ Exhibitor Area Hours: Monday, October 30, 8am-7:30pm and Tuesday, October 31, 8am-5pm
 + Vendor Tear Down: Tuesday, October 31, 5pm-9pm. All vendor areas must be torn down by 9pm.
 + Exhibitor Floor Plan: The selection of expo space is chosen according to the exhibitor level, and then by the date payment was received in full. A complete floor plan diagram will be available shortly. 
 
