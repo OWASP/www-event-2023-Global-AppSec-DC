@@ -53,15 +53,7 @@ This packet provides essential information, including preparing for the event, r
 + Exhibitor Floor Plan: The selection of expo space is chosen according to the exhibitor level, and then by the date payment was received in full. A complete floor plan diagram will be available shortly. 
 
 ### Conference Schedule
-
-Details on the event schedule can be found [here](https://owasp2023globalappsecwashin.sched.com/)
-
-### Shipping Materials
-
-For booth materials, A/V, furniture, and shipping & receiving to and after the show, you will work directly with [Freeman](TBA).
-
-### Lead Retrieval
-[Coming Soon](TBA)
++ Details on the event schedule can be found [here](https://owasp2023globalappsecwashin.sched.com/)
 
 ### A/V & Furniture Rentals
 [Coming Soon](TBA)
@@ -69,8 +61,14 @@ For booth materials, A/V, furniture, and shipping & receiving to and after the s
 ### Electricity
 [Coming Soon](TBA)
 
+### Lead Retrieval
+[Coming Soon](TBA)
+
+### Shipping Materials
++ For booth materials, A/V, furniture, and shipping & receiving to and after the show, you will work directly with [Coming Soon](TBA).
+
 ### Wi-Fi
-Shared conference Wi-Fi will be available. Please ask for the network and password at the Registration desk. Additionally, the network and password will be included in your on-site packets that your team will find on their expo tables when they arrive.
++ Shared conference Wi-Fi will be available. Please ask for the network and password at the Registration desk. Additionally, the network and password will be included in your on-site packets that your team will find on their expo tables when they arrive.
 
 ### Travel Information
 + Coming soon
