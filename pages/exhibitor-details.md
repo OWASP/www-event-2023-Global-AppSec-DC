@@ -23,8 +23,8 @@ This packet provides essential information, including preparing for the event, r
 + [Order A/V equipment rental/Furniture](TBA)
 + [Shipping to and from](TBA) 
 + [Secure your lead scanner](TBA) 
-+ Exhibitor check-in & set-up Sunday, October 29, 6pm
-+ Exhibitor tear-down Tuesday, October 31, 5pm-9pm
+++ Exhibitor check-in & set-up Sunday, October 29, 6pm
+++ Exhibitor tear-down Tuesday, October 31, 5pm-9pm
 
 ### Preparing You and Your Team
 
