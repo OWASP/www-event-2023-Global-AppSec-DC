@@ -9,9 +9,8 @@ permalink: /exhibitordetails/
 
 On behalf of the OWASP Foundation, the conference planning team, and everyone attending the conference, we thank you for participating in this year’s event.
 
-We want to do everything possible to make your experience as positive and successful as possible. As you go through this packet, we urge you to contact us with any questions or concerns.
-
 The OWASP Foundation has been presenting events focused on education around software security since it was founded 20+ years ago.
+We want to do everything possible to make your experience as positive and successful as possible. As you go through this packet, we urge you to contact us with any questions or concerns.
 
 ## Exhibitor Packet
 
