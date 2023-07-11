@@ -40,7 +40,7 @@ This packet provides essential information, including preparing for the event, r
 + Gold: 2 full conference passes 2 expo only passes
 + Silver: 2 expo only passes
 + Start-Up: 2 expo only passes
-+ Additional full conference and expo only pass may be purchased [here](https://www.eventbrite.com/e/owasp-global-appsec-washington-dc-2023-tickets-519195877847)
++ Additional full conference and expo only pass may be purchased [here](https://www.eventbrite.com/e/owasp-global-appsec-washington-dc-2023-tickets-519195877847).
 
 ### Preparing for the Conference
 
@@ -51,7 +51,7 @@ This packet provides essential information, including preparing for the event, r
 + Exhibitor Floor Plan: The selection of expo space is chosen according to the exhibitor level, and then by the date payment was received in full. A complete floor plan diagram will be available shortly. 
 
 ### Conference Schedule
-+ Details on the event schedule can be found [here](https://owasp2023globalappsecwashin.sched.com/)
++ Details on the event schedule can be found [here](https://owasp2023globalappsecwashin.sched.com/).
 
 ### A/V & Furniture Rentals
 [Coming Soon](TBA)
