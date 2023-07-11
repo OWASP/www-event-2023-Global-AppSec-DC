@@ -63,17 +63,16 @@ For booth materials, A/V, furniture, and shipping & receiving to and after the s
 ### Lead Retrieval
 [Coming Soon](TBA)
 
-**A/V & Furniture Rentals** 
-[Freeman](TBA)
+### A/V & Furniture Rentals
+[Coming Soon](TBA)
 
-**Electricity** 
-[Freeman](TBA)
+### Electricity
+[Coming Soon](TBA)
 
-**Wi-Fi**
+### Wi-Fi
 Shared conference Wi-Fi will be available. Please ask for the network and password at the Registration desk. Additionally, the network and password will be included in your on-site packets that your team will find on their expo tables when they arrive.
 
-**Travel Information**
-
+### Travel Information
 + Coming soon
 
 **Contact Information**
@@ -84,17 +83,17 @@ Shared conference Wi-Fi will be available. Please ask for the network and passwo
 + Booth Electricity - TBA
 + Lead Scanner - TBA
 
-**Details at a Glance**
+### Details at a Glance
 
 + Exhibit Show Dates & Hours
 + Monday, October 30, 8am-7:30pm (Networking Reception held in the Expo Hall from 5:30pm-7:30pm)
 + Tuesday, October 31, 8am-5pm 
 
-**Show Location**
+### Show Location
 
 + Marriott Marquis Washington DC, 901 Massachusetts Avenue, NW, Washington, DC 20001 USA
 
-**OTHER QUESTIONS?** 
+### OTHER QUESTIONS?
 
 + Is there something we missed? Please Contact Us at [events@owasp.com](mailto:events@owasp.com)
 
