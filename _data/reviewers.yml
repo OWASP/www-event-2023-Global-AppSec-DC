@@ -65,16 +65,16 @@
        - name: "LinkedIn: AramHovsep"
          url: https://www.linkedin.com/in/aramhovsep/
  - name: Meghan Jacquot
-   url: 
+   url: https://www.linkedin.com/in/meghan-jacquot-carpe-diem/ 
    company: Inspectiv
    image: /assets/images/reviewers/meghan_jacquot_headshot.jpg
    bio: >-
        Meghan Jacquot is a Security Engineer with Inspectiv and a curious lifelong learner with a commitment to sharing what she has learned. She is passionate about helping others, speaking at conferences to increase cyber awareness, and is particularly interested in cloud security, threat intelligence, investigating vulnerabilities, and the ethical use of data.  She is President of WiCyS Mid-Atlantic Affiliate, a DEF CON SOC Goon, Staff at The Diana Initiative, a Board Member for Whole Cyber Human Initiative, and a CFP Reviewer and CTF creator for SANS. To relax you also might see her visiting national parks, gardening, or hanging with her chinchilla. She’s happy to connect with others on LinkedIn, Twitter, and on her CarpeDiemT3ch YouTube channel.
    social: 
-       - name: 
-         url: 
-       - name: 
-         url: 
+       - name: "Twitter: @CarpeDiemT3ch"
+         url: https://twitter.com/CarpeDiemT3ch  
+       - name: "LinkedIn: Meghan-Jacquot-carpe-diem"
+         url: https://www.linkedin.com/in/meghan-jacquot-carpe-diem/
  - name: Abhinav Khanna
    url: https://www.linkedin.com/in/abhinav-khanna-a2633b114
    company: NotSoSecure
