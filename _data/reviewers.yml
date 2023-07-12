@@ -162,11 +162,13 @@
        - name: 
          url: 
  - name: Erez Yalon
-   url: 
+   url: https://www.linkedin.com/in/erezyalon/
    company: Checkmarx
    image: 
    bio: >-
        Erez Yalon is the VP of Security Research at Checkmarx. Erez oversees Checkmarx's research team comprising analysts, pen testers, security engineers, and bug bounty hunters. He brings vast experience to his position and his efforts to empower today's developers and organizations to deliver more secure applications.Erez is also the Founder of the AppSec Village and the API Security Top 10 project. 
    social: 
-       - name: 
-         url:
+       - name: "LinkedIn: Erez Yalon"
+         url: https://www.linkedin.com/in/erezyalon/
+       - name: "Twitter: Erez Yalon"
+         url: https://twitter.com/ErezYalon 
