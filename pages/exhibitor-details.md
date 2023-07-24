@@ -20,7 +20,7 @@ This packet provides essential information, including preparing for the event, r
 
 + [Register your onsite team](https://www.eventbrite.com/e/owasp-global-appsec-washington-dc-2023-tickets-519195877847) ASAP! Discount codes have been sent to your rep for paid exhibitors and sponsors.
 + [Book your hotel room](https://book.passkey.com/event/50528867/owner/10764415/home) Please reserve your rooms before October 1 to receive the discounted group rate.
-+ Order A/V equipment - [Encore](MarriottMarquisWashingtonDCExhibitorKit.pdf)
++ Order A/V equipment - [Encore](/assets/files/MarriottMarquisWashingtonDCExhibitorKit.pdf)
 + Order rental/Furniture - Coming Soon
 + Shipping to and from the event - Coming Soon
 + Secure your lead scanner - Coming Soon
@@ -55,10 +55,10 @@ This packet provides essential information, including preparing for the event, r
 + Details on the event schedule can be found [here](https://owasp2023globalappsecwashin.sched.com/).
 
 ### A/V & Furniture Rentals
-[Encore](MarriottMarquisWashingtonDCExhibitorKit.pdf)
+[Encore](/assets/files/MarriottMarquisWashingtonDCExhibitorKit.pdf)
 
 ### Electricity
-[Encore](MarriottMarquisWashingtonDCExhibitorKit.pdf)
+[Encore](/assets/files/MarriottMarquisWashingtonDCExhibitorKit.pdf)
 
 ### Lead Retrieval
 [Coming Soon](TBA)
@@ -67,7 +67,7 @@ This packet provides essential information, including preparing for the event, r
 + For booth materials, furniture, and shipping & receiving to and after the show, you will work directly with [Coming Soon](TBA).
 
 ### Wi-Fi
-+ Shared conference Wi-Fi will be available. Please ask for the network and password at the Registration desk. Additionally, the network and password will be included in your on-site packets that your team will find on their expo tables when they arrive. If you require hardwired Wi-Fi specifically for your expo area, please contact [Encore](MarriottMarquisWashingtonDCExhibitorKit.pdf).
++ Shared conference Wi-Fi will be available. Please ask for the network and password at the Registration desk. Additionally, the network and password will be included in your on-site packets that your team will find on their expo tables when they arrive. If you require hardwired Wi-Fi specifically for your expo area, please contact [Encore](/assets/files/MarriottMarquisWashingtonDCExhibitorKit.pdf).
 
 ### Travel Information
 + Coming soon
