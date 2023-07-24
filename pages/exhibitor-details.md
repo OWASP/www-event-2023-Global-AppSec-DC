@@ -10,7 +10,7 @@ permalink: /exhibitordetails/
 On behalf of the OWASP Foundation, the conference planning team, and everyone attending the conference, we thank you for participating in this year’s event.
 
 The OWASP Foundation has been presenting events focused on education around software security since it was founded 20+ years ago.
-We want to do everything possible to make your experience as positive and successful as possible. As you go through this packet, we urge you to contact us with any questions or concerns.
+We want to do everything possible to make your experience as positive and successful as possible. As you look over this packet, we ask that you please contact us with any questions or concerns.
 
 ## Exhibitor Packet
 
@@ -30,17 +30,17 @@ This packet provides essential information, including preparing for the event, r
 
 + REGISTER: It is critical that both your expo pass holders and full conference pass holders register. Discount codes have been distributed to all paid exhibitors and sponsors.
 + BOOK HOTEL: OWASP has a room block for Global AppSec DC 2023. To book a room at the conference hotel, please use [this link](https://book.passkey.com/event/50528867/owner/10764415/home) to receive the discounted group rate available only until October 1. 
-+ Full Conference Pass holders will have access to: breakfast, coffee breaks, lunch, Networking Reception, social events, as well as access to the Keynote sessions, all conference tracks, and the expo hall. 
++ Full Conference Pass holders will have access to: breakfast, coffee breaks, lunch, Networking Reception, and social events, as well as access to the Keynote sessions, all conference tracks, and the expo hall. 
 + Expo Only Pass holders will have access to: breakfast, coffee breaks, lunch, and Networking Reception. Expo pass holders will NOT have  access to the Keynote sessions or conference tracks.
 
 ### Event Exhibitors
 
-+ Diamond Plus: 5 full conference passes 3 expo only passes
-+ Diamond:  5 full conference passes 3 expo only passes
-+ Gold: 2 full conference passes 2 expo only passes
-+ Silver: 2 expo only passes
-+ Start-Up: 2 expo only passes
-+ Additional full conference and expo only pass may be purchased [here](https://www.eventbrite.com/e/owasp-global-appsec-washington-dc-2023-tickets-519195877847).
++ Diamond Plus: 5 full conference passes 3 expo-only passes
++ Diamond:  5 full conference passes 3 expo-only passes
++ Gold: 2 full conference passes 2 expo-only passes
++ Silver: 2 expo-only passes
++ Start-Up: 2 expo-only passes
++ Additional full conference and expo-only passes may be purchased [here](https://www.eventbrite.com/e/owasp-global-appsec-washington-dc-2023-tickets-519195877847).
 
 ### Preparing for the Conference
 
@@ -54,19 +54,19 @@ This packet provides essential information, including preparing for the event, r
 + Details on the event schedule can be found [here](https://owasp2023globalappsecwashin.sched.com/).
 
 ### A/V & Furniture Rentals
-[Coming Soon](TBA)
+[Encore](MarriottMarquisWashingtonDCExhibitorKit.pdf)
 
 ### Electricity
-[Coming Soon](TBA)
+[Encore](MarriottMarquisWashingtonDCExhibitorKit.pdf)
 
 ### Lead Retrieval
 [Coming Soon](TBA)
 
 ### Shipping Materials
-+ For booth materials, A/V, furniture, and shipping & receiving to and after the show, you will work directly with [Coming Soon](TBA).
++ For booth materials, furniture, and shipping & receiving to and after the show, you will work directly with [Coming Soon](TBA).
 
 ### Wi-Fi
-+ Shared conference Wi-Fi will be available. Please ask for the network and password at the Registration desk. Additionally, the network and password will be included in your on-site packets that your team will find on their expo tables when they arrive.
++ Shared conference Wi-Fi will be available. Please ask for the network and password at the Registration desk. Additionally, the network and password will be included in your on-site packets that your team will find on their expo tables when they arrive. If you require hardwired Wi-Fi specifically for your expo area, please contact [Encore](MarriottMarquisWashingtonDCExhibitorKit.pdf).
 
 ### Travel Information
 + Coming soon
@@ -75,13 +75,14 @@ This packet provides essential information, including preparing for the event, r
 
 + Kelly Santalucia, OWASP Foundation [kelly.santalucia@owasp.com](mailto:kelly.santalucia@owasp.com)
 + Lauren Thomas, OWASP Foundation [lauren.thomas@owasp.com](mailto:lauren.thomas@owasp.com)
-+ Freight, A/V & Furniture Needs - TBA
-+ Booth Electricity - TBA
++ A/V Rentals - Encore [shalis.ricks@encoreglobal.com](mailto:shalis.ricks@encoreglobal.com)
++ Freight (to and from the show) & Additional Furniture Needs - TBA
++ Booth Electricity - Encore [shalis.ricks@encoreglobal.com](mailto:shalis.ricks@encoreglobal.com)
 + Lead Scanner - TBA
 
 ### Details at a Glance
 
-+ Show location: Marriott Marquis Washington DC, 901 Massachusetts Avenue, NW, Washington, DC 20001 USA
++ Show Location: Marriott Marquis Washington DC, 901 Massachusetts Avenue, NW, Washington, DC 20001 USA
 + Exhibit Show Dates & Hours: Monday, October 30, 8am-7:30pm (Networking Reception held in the Expo Hall from 5:30pm-7:30pm) and Tuesday, October 31, 8am-5pm
   
 ### OTHER QUESTIONS?
