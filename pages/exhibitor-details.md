@@ -54,11 +54,14 @@ This packet provides essential information, including preparing for the event, r
 ### Conference Schedule
 + Details on the event schedule can be found [here](https://owasp2023globalappsecwashin.sched.com/).
 
-### A/V & Furniture Rentals
+### A/V
 [Encore](/assets/files/MarriottMarquisWashingtonDCExhibitorKit.pdf)
 
 ### Electricity
 [Encore](/assets/files/MarriottMarquisWashingtonDCExhibitorKit.pdf)
+
+### Furniture Rentals
+[Coming Soon](TBA)
 
 ### Lead Retrieval
 [Coming Soon](TBA)
