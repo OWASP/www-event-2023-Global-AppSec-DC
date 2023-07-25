@@ -193,4 +193,9 @@
   url: https://nokodsecurity.com/
   #backgroundSize: 125px
   type: Start Up
+- logo: /assets/images/sponsors/apiiro_logo_for_owasp.png
+  name: Apiiro
+  url: https://apiiro.com/
+  #backgroundSize: 125px
+  type: Gold
   
