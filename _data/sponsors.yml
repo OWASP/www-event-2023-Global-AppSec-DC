@@ -198,4 +198,8 @@
   url: https://apiiro.com/
   #backgroundSize: 125px
   type: Gold
-  
+- logo: /assets/images/sponsors/logo_eshard_twotone.png
+  name: eShard
+  url: https://eshard.com/
+  #backgroundSize: 125px
+  type: Silver
