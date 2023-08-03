@@ -198,3 +198,23 @@
   url: https://eshard.com/
   #backgroundSize: 125px
   type: Silver
+- logo: /assets/images/sponsors/Ox_Security.png
+  name: OX Security
+  url: https://www.ox.security/
+  #backgroundSize: 125px
+  type: Silver
+- logo: /assets/images/sponsors/logo_eshard_twotone.png
+  name: eShard
+  url: https://eshard.com/
+  #backgroundSize: 125px
+  type: Silver
+- logo: /assets/images/sponsors/Kodem.png
+  name: Kodem
+  url: https://www.kodemsecurity.com/
+  #backgroundSize: 125px
+  type: Start Up
+- logo: /assets/images/sponsors/ScribeSecurity.png
+  name: Scribe Security
+  url: https://scribesecurity.com/
+  #backgroundSize: 125px
+  type: Start Up
