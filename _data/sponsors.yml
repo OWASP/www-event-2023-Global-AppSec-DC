@@ -78,11 +78,6 @@
   url: https://www.endorlabs.com/
   #backgroundSize: 125px
   type: Start-Up
-- logo: /assets/images/sponsors/Bearer.svg
-  name: Bearer
-  url: https://www.bearer.com/
-  #backgroundSize: 125px
-  type: Lunch
 - logo: /assets/images/sponsors/TromzoLogo.png
   name: Tromzo
   url: https://tromzo.com/
