@@ -193,11 +193,6 @@
   url: https://apiiro.com/
   #backgroundSize: 125px
   type: Gold
-- logo: /assets/images/sponsors/logo_eshard_twotone.png
-  name: eShard
-  url: https://eshard.com/
-  #backgroundSize: 125px
-  type: Silver
 - logo: /assets/images/sponsors/Ox_Security.png
   name: OX Security
   url: https://www.ox.security/
