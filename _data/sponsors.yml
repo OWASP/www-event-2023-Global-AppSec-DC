@@ -218,3 +218,13 @@
   url: https://scribesecurity.com/
   #backgroundSize: 125px
   type: Start Up
+- logo: /assets/images/sponsors/Lineaje.png
+  name: Lineaje
+  url: https://www.lineaje.dev/
+  #backgroundSize: 125px
+  type: Start Up
+- logo: /assets/images/sponsors/Riscosity.png
+  name: Riscosity
+  url: https://www.riscosity.com/
+  #backgroundSize: 125px
+  type: Start Up
