@@ -228,3 +228,8 @@
   url: https://www.riscosity.com/
   #backgroundSize: 125px
   type: Start Up
+- logo: /assets/images/sponsors/Pangea.png
+  name: Pangea
+  url: https://pangea.cloud/
+  #backgroundSize: 125px
+  type: Start Up
