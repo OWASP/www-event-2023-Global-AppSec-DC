@@ -233,3 +233,8 @@
   url: https://pangea.cloud/
   #backgroundSize: 125px
   type: Start Up
+- logo: /assets/images/sponsors/Traceable.png
+  name: Traceable.ai
+  url: https://www.traceable.ai/
+  #backgroundSize: 125px
+  type: Gold
