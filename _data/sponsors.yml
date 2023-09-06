@@ -243,4 +243,8 @@
   url: https://hcl.com/
   #backgroundSize: 125px
   type: Gold
-  
+- logo: /assets/images/sponsors/devici-logo-dark.png  
+  name: Devici
+  url: https://devici.com/
+  #backgroundSize: 125px
+  type: Start Up
