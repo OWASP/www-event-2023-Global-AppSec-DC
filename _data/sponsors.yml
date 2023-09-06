@@ -233,3 +233,14 @@
   url: https://www.traceable.ai/
   #backgroundSize: 125px
   type: Gold
+- logo: /assets/images/sponsors/github_logo.png
+  name: GitHub
+  url: https://github.com/
+  #backgroundSize: 125px
+  type: Diamond
+- logo: HCL_logo.png
+  name: /assets/images/sponsors/HCL Software
+  url: https://hcl.com/
+  #backgroundSize: 125px
+  type: Gold
+  
