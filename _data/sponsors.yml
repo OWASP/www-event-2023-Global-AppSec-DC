@@ -238,8 +238,8 @@
   url: https://github.com/
   #backgroundSize: 125px
   type: Diamond
-- logo: HCL_logo.png
-  name: /assets/images/sponsors/HCL Software
+- logo: /assets/images/sponsors/HCL_logo.png
+  name: HCL Software
   url: https://hcl.com/
   #backgroundSize: 125px
   type: Gold
