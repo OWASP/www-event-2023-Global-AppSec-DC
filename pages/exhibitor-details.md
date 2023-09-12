@@ -20,11 +20,11 @@ This packet provides essential information, including preparing for the event, r
 
 + [Register your onsite team](https://www.eventbrite.com/e/owasp-global-appsec-washington-dc-2023-tickets-519195877847) ASAP! Discount codes have been sent to your rep for paid exhibitors and sponsors.
 + [Book your hotel room](https://book.passkey.com/event/50528867/owner/10764415/home) Please reserve your rooms before October 1 to receive the discounted group rate.
-+ Order A/V equipment - [Encore](/assets/files/MarriottMarquisWashingtonDCExhibitorKit.pdf)
-+ Order rental/Furniture - Coming Soon
-+ Shipping to and from the event - Coming Soon
-+ Secure your lead scanner - Coming Soon
-+ Exhibitor check-in & set-up Sunday, October 29, 6pm
++ Order A/V equipment - 
++ Order rental/Furniture - 
++ Shipping to and from the event - 
++ Secure your lead scanner - ASAP Eventdex
++ Exhibitor check-in & set-up Sunday, October 29, 6pm-9pm
 + Exhibitor tear-down Tuesday, October 31, 5pm-9pm
 
 ### Preparing You and Your Team
@@ -64,7 +64,7 @@ This packet provides essential information, including preparing for the event, r
 [Coming Soon](TBA)
 
 ### Lead Retrieval
-[Coming Soon](TBA)
+[EventDex](TBA)
 
 ### Shipping Materials
 + For booth materials, furniture, and shipping & receiving to and after the show, you will work directly with [Coming Soon](TBA).
@@ -82,7 +82,7 @@ This packet provides essential information, including preparing for the event, r
 + A/V Rentals - Encore [shalis.ricks@encoreglobal.com](mailto:shalis.ricks@encoreglobal.com)
 + Freight (to and from the show) & Additional Furniture Needs - TBA
 + Booth Electricity - Encore [shalis.ricks@encoreglobal.com](mailto:shalis.ricks@encoreglobal.com)
-+ Lead Scanner - TBA
++ Lead Scanner - [shekar@eventdex.com](mailto:Shekar Yasarapu) Ph# 1-732-333-5938
 
 ### Details at a Glance
 
