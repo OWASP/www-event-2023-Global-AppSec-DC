@@ -70,7 +70,7 @@ This packet provides essential information, including preparing for the event, r
 + [EventDex](TBA)
 
 ### Shipping Materials to and from the show
-+ [Freeman](TBA).
++ [Freeman](TBA)
 
 ### Wi-Fi
 + Shared conference Wi-Fi will be available. Please ask for the network and password at the Registration desk. Additionally, the network and password will be included in your on-site packets that your team will find on their expo tables when they arrive. If you require hardwired Wi-Fi specifically for your expo area, please contact [Encore](/assets/files/MarriottMarquisWashingtonDCExhibitorKit.pdf).
