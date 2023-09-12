@@ -36,13 +36,13 @@ This packet provides essential information, including preparing for the event, r
 
 ### Event Exhibitors
 
++ Each 8' x 10' Gold/Silver Booth will be set with an 8' high black and white back drape, 3' high black side drape, one 6'L x 30"H black draped table, two Limerick® chairs by Herman Miller, and one wastebasket. Booths 300 sqft or less will receive an identification sign. Booths larger than 300 sqft may receive an identification sign upon request from Freeman. 
 + Diamond Plus: 5 full conference passes 3 expo-only passes
 + Diamond:  5 full conference passes 3 expo-only passes
 + Gold: 2 full conference passes 2 expo-only passes
 + Silver: 2 expo-only passes
 + Start-Up: 2 expo-only passes
 + Additional full conference and expo-only passes may be purchased [here](https://www.eventbrite.com/e/owasp-global-appsec-washington-dc-2023-tickets-519195877847). Unfortunately, we are unable to offer any additional discounts other than what is included in your exhibitor/sponsorship package.
-+ Each 8' x 10' Gold/Silver Booth will be set with 8' high black and white back drape, 3' high black side drape, one 6'L x 30"H black draped table, two Limerick® chairs by Herman Miller, and one wastebasket. Booths 300 sqft or less will receive an identification sign. Booths larger than 300 sqft may receive an identification sign upon request from Freeman. 
 
 ### Preparing for the Conference
 
