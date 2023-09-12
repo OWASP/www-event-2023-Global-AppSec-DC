@@ -81,7 +81,7 @@ This packet provides essential information, including preparing for the event, r
 ### Contact Information
 + Kelly Santalucia, OWASP Foundation [kelly.santalucia@owasp.com](mailto:kelly.santalucia@owasp.com)
 + Lauren Thomas, OWASP Foundation [lauren.thomas@owasp.com](mailto:lauren.thomas@owasp.com)
-+ A/V Rentals - [Lumens](mailto:Eric De Groot) Ph#1-714.454.8317
++ A/V Rentals - [Lumens](mailto:ericdg@lumensav.com) Ph#1-714.454.8317
 + Electricity - [Encore](mailto:shalis.ricks@encoreglobal.com) Ph#1-301-684-6039
 + Freight (to and from the show) - [Freeman](mailto:Emily.Drewello@freeman.com) Ph#1-360-536-2546 
 + Furniture Needs - [Freeman](mailto:Emily.Drewello@freeman.com) Ph#1-360-536-2546 
