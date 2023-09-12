@@ -82,15 +82,15 @@ This packet provides essential information, including preparing for the event, r
 + Kelly Santalucia, OWASP Foundation [kelly.santalucia@owasp.com](mailto:kelly.santalucia@owasp.com)
 + Lauren Thomas, OWASP Foundation [lauren.thomas@owasp.com](mailto:lauren.thomas@owasp.com)
 + A/V Rentals - [Lumens](mailto:Eric De Groot) Ph#1-714.454.8317
++ Electricity - [Encore](mailto:shalis.ricks@encoreglobal.com) Ph#1-301-684-6039
 + Freight (to and from the show) - [Freeman](mailto:Emily.Drewello@freeman.com) Ph#1-360-536-2546 
-+ Additional Furniture Needs - [Freeman](mailto:Emily.Drewello@freeman.com) Ph#1-360-536-2546 
-+ Booth Electricity - [Encore](mailto:shalis.ricks@encoreglobal.com) Ph#1-301-684-6039
++ Furniture Needs - [Freeman](mailto:Emily.Drewello@freeman.com) Ph#1-360-536-2546 
 + Lead Scanner - [EventDex](mailto:shekar@eventdex.com) Ph#1-732-333-5938
 + Wi-Fi - [Encore](mailto:shalis.ricks@encoreglobal.com) Ph#1-301-684-6039
   
 ### Details at a Glance
 + Show Location: Marriott Marquis Washington DC, 901 Massachusetts Avenue, NW, Washington, DC 20001 USA
-+ Exhibit Show Dates & Hours: Monday, October 30, 8am-7:30pm (Networking Reception held in the Expo Hall from 5:30pm-7:30pm) and Tuesday, October 31, 8am-5pm
++ Exhibit Show Dates & Hours: Monday, October 30, 8am-8:30pm (Networking Reception held in the Expo Hall from 6:30pm-8:30pm) and Tuesday, October 31, 8am-5pm
   
 ### OTHER QUESTIONS?
 + Is there something we missed? Please [Contact Us](mailto:events@owasp.com)
