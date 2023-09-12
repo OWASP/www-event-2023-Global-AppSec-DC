@@ -64,7 +64,7 @@ This packet provides essential information, including preparing for the event, r
 + If you require electricity at your expo area, please work directly with [Encore](/assets/files/MarriottMarquisWashingtonDCExhibitorKit.pdf).
 
 ### Furniture Rentals
-+ Additional furniture other than what is included in your expo package may be ordered directly from [Freeman](TBA)
++ Additional furniture other than what is included in your expo package may be ordered directly from [Freeman](TBA).
 
 ### Lead Retrieval
 + [EventDex](TBA)
