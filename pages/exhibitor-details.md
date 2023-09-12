@@ -43,8 +43,8 @@ This packet provides essential information, including preparing for the event, r
 + Silver: 2 expo-only passes
 + Start-Up: 2 expo-only passes
 + Additional full conference and expo-only passes may be purchased [here](https://www.eventbrite.com/e/owasp-global-appsec-washington-dc-2023-tickets-519195877847). Unfortunately, we are unable to offer any additional discounts other than what is included in your exhibitor/sponsorship package.
-+ Full conference pass holders will have access to breakfast, coffee breaks, lunch, expo hall, Networking Reception, conference activities, keynote sessions, and tracks.
-+ Expo Only pass holders will have access to breakfast, coffee breaks, lunch, expo hall, Networking Reception, and conference activities. They will not have access to the keynote sessions or tracks.
++ Full Conference Pass holders will have access to: breakfast, coffee breaks, lunch, Networking Reception, and social events, as well as access to the Keynote sessions, all conference tracks, and the expo hall. 
++ Expo Only Pass holders will have access to: breakfast, coffee breaks, lunch, Networking Reception, and social events. Expo pass holders will NOT have access to the Keynote sessions or conference tracks.
 
 ### Preparing for the Conference
 
