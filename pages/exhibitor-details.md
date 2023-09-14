@@ -66,7 +66,7 @@ This packet provides essential information, including preparing for the event, r
 + Additional furniture other than what is included in your expo package may be ordered directly from [Freeman](https://www.freemanco.com/documents/quick-facts2?showId=526852&venueId=177001722&branchId=112&city=Washington-DC&documentName=Quick%20Facts).
 
 ### Lead Retrieval
-+ Please follow the instructions here [EventDex](/assets/files/LeadRetrievalInstructionsGuide.pdf). If your expo package does not include a lead scanner license and you would like to purchase one, please [Contact Us](mailto:events@owasp.com).
++ Please follow the instructions provided by [EventDex](/assets/files/LeadRetrievalInstructionsGuide.pdf). If your expo package does not include a lead scanner license and you would like to purchase one, please [Contact Us](mailto:events@owasp.com).
 
 ### Shipping Materials to and from the show
 + [Freeman](https://www.freemanco.com/documents/quick-facts2?showId=526852&venueId=177001722&branchId=112&city=Washington-DC&documentName=Quick%20Facts)
