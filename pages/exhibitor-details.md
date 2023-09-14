@@ -64,13 +64,13 @@ This packet provides essential information, including preparing for the event, r
 + If you require electricity at your expo area, please work directly with [Encore](/assets/files/MarriottMarquisWashingtonDCExhibitorKit.pdf).
 
 ### Furniture Rentals
-+ Additional furniture other than what is included in your expo package may be ordered directly from [Freeman](TBA).
++ Additional furniture other than what is included in your expo package may be ordered directly from [Freeman](https://www.freemanco.com/documents/quick-facts2?showId=526852&venueId=177001722&branchId=112&city=Washington-DC&documentName=Quick%20Facts).
 
 ### Lead Retrieval
 + [EventDex](TBA)
 
 ### Shipping Materials to and from the show
-+ [Freeman](TBA)
++ [Freeman](https://www.freemanco.com/documents/quick-facts2?showId=526852&venueId=177001722&branchId=112&city=Washington-DC&documentName=Quick%20Facts)
 
 ### Wi-Fi
 + Shared conference Wi-Fi will be available. Please ask for the network and password at the Registration desk. Additionally, the network and password will be included in your on-site packets that your team will find on their expo tables when they arrive. If you require hardwired Wi-Fi specifically for your expo area, please contact [Encore](/assets/files/MarriottMarquisWashingtonDCExhibitorKit.pdf).
