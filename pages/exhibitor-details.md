@@ -73,9 +73,6 @@ This packet provides essential information, including preparing for the event, r
 ### Wi-Fi
 + Shared conference Wi-Fi will be available. Please ask for the network and password at the Registration desk. Additionally, the network and password will be included in your on-site packets that your team will find on their expo tables when they arrive. If you require hardwired Wi-Fi specifically for your expo area, please contact [Encore](/assets/files/MarriottMarquisWashingtonDCExhibitorKit.pdf).
 
-### Travel Information
-+ Coming soon
-
 ### Contact Information
 + Kelly Santalucia, OWASP Foundation [kelly.santalucia@owasp.com](mailto:kelly.santalucia@owasp.com)
 + Lauren Thomas, OWASP Foundation [lauren.thomas@owasp.com](mailto:lauren.thomas@owasp.com)
