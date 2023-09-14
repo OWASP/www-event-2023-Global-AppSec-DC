@@ -23,7 +23,7 @@ This packet provides essential information, including preparing for the event, r
 + A/V rentals - ASAP Lumens 
 + Furniture rentals -  ASAP Freeman
 + Shipping to and from the event - Freeman
-+ Secure your lead scanner - ASAP Eventdex
++ Lead scanner - Eventdex
 + Exhibitor check-in & set-up Sunday, October 29, 6pm-9pm
 + Exhibitor tear-down Tuesday, October 31, 5pm-9pm
 
