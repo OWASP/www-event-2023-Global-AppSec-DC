@@ -20,8 +20,8 @@ This packet provides essential information, including preparing for the event, r
 
 + [Register your onsite team](https://www.eventbrite.com/e/owasp-global-appsec-washington-dc-2023-tickets-519195877847) ASAP! Discount codes have been sent to your rep for paid exhibitors and sponsors.
 + [Book your hotel room](https://book.passkey.com/event/50528867/owner/10764415/home) Please reserve your rooms before October 1 to receive the discounted group rate.
-+ Order A/V equipment - ASAP Lumens 
-+ Order rental/Furniture -  ASAP Freeman
++ A/V equipment reentals - ASAP Lumens 
++ Furniture rentals -  ASAP Freeman
 + Shipping to and from the event - Freeman
 + Secure your lead scanner - ASAP Eventdex
 + Exhibitor check-in & set-up Sunday, October 29, 6pm-9pm
