@@ -24,6 +24,7 @@ This packet provides essential information, including preparing for the event, r
 + Furniture rentals -  ASAP Freeman
 + Shipping to and from the event - Freeman
 + Lead scanner - Eventdex
++ Electricity/Wi-Fi - Encore
 + Exhibitor check-in & set-up Sunday, October 29, 6pm-9pm
 + Exhibitor tear-down Tuesday, October 31, 5pm-9pm
 
