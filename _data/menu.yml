@@ -23,8 +23,8 @@
       url: /assets/files/2023GlobalAppSecDCBrandingOpportunities(1).pdf
     #- title: Exhibitors & Sponsors
       #url: /sponsors
-    #- title: Exhibitor Kit
-      #url: /exhibitordetails/
+     - title: Exhibitor Kit
+      url: /exhibitordetails/
 - title: ABOUT
   #url: /about/
   items:
