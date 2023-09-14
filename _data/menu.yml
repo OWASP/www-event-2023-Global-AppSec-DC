@@ -24,7 +24,7 @@
     #- title: Exhibitors & Sponsors
       #url: /sponsors
      - title: Exhibitor Kit
-       url: assets/files/LeadRetrievalInstructionsGuide.pptx.pdf
+       url: /assets/files/LeadRetrievalInstructionsGuide.pptx.pdf
 - title: ABOUT
   #url: /about/
   items:
