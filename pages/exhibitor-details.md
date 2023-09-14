@@ -52,7 +52,7 @@ This packet provides essential information, including preparing for the event, r
 + Vendor Check-in and Set-up: Sunday, October 29, 6pm-9pm
 + Exhibitor Area Hours: Monday, October 30, 8am-8:30pm and Tuesday, October 31, 8am-5pm
 + Vendor Tear Down: Tuesday, October 31, 5pm-9pm. All vendor areas must be torn down by 9pm.
-+ Exhibitor Floor Plan: [Main Expo Hall](/assets/files/ExhibitHallFinal2023GlobalAppSecDC.pdf) [Start-up](/assets/files/Start-UpFoyerFloorplan.pdf)
++ Exhibitor Floor Plan: [Main Expo Hall](/assets/files/ExhibitHallFinal2023GlobalAppSecDC.pdf) and [Start-up Area](/assets/files/Start-UpFoyerFloorplan.pdf)
   
 ### Conference Schedule
 + Details on the event schedule can be found [here](https://owasp2023globalappsecwashin.sched.com/).
