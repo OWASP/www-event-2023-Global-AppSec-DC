@@ -56,7 +56,7 @@ This packet provides essential information, including preparing for the event, r
 + Details on the event schedule can be found [here](https://owasp2023globalappsecwashin.sched.com/).
 
 ### A/V
-+ Should you wish to order any A/V, please do so directly through [Lumens](/assets/files/LumensAVOrderForm.pdf)
++ Should you wish to order any A/V, please do so directly through [Lumens](/assets/files/LumensAVOrderForm.pdf).
 
 ### Electricity
 + If you require electricity at your expo area, please work directly with [Encore](/assets/files/MarriottMarquisWashingtonDCExhibitorKit.pdf).
