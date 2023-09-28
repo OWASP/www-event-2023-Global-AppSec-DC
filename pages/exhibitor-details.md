@@ -63,7 +63,7 @@ This packet provides essential information, including preparing for the event, r
 + If you require electricity at your expo area, please work directly with [Encore](/assets/files/MarriottMarquisWashingtonDCExhibitorKit.pdf).
 
 ### Furniture Rentals
-+ Additional furniture other than what is included in your expo package may be ordered directly from [Freeman](https://www.freemanco.com/documents/quick-facts2?showId=526852&venueId=177001722&branchId=112&city=Washington-DC&documentName=Quick%20Facts](https://www.freemanco.com/store/show/landing?showID=526852).
++ Additional furniture other than what is included in your expo package may be ordered directly from [Freeman](https://www.freemanco.com/store/show/landing?showID=526852)
 
 ### Lead Retrieval
 + Please follow the instructions provided by EventDex [here](/assets/files/LeadRetrievalInstructionsGuide.pdf) and [here](/assets/files/LeadRetrieval.docx). If your expo package does not include a lead scanner license and you would like to purchase one, please [Contact Us](mailto:events@owasp.com).
