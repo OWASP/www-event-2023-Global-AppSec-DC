@@ -44,7 +44,7 @@ This packet provides essential information, including preparing for the event, r
 + Additional full conference and expo-only passes may be purchased [here](https://www.eventbrite.com/e/owasp-global-appsec-washington-dc-2023-tickets-519195877847). Unfortunately, we are unable to offer any additional discounts other than what is included in your exhibitor/sponsorship package.
 + Full Conference Pass holders will have access to: breakfast, coffee breaks, lunch, Networking Reception, and social events, as well as access to the Keynote sessions, all conference tracks, and the expo hall. 
 + Expo Only Pass holders will have access to: breakfast, coffee breaks, lunch, Networking Reception, and social events. Expo pass holders will NOT have access to the Keynote sessions or conference tracks.
-+ Exhibitor Floor Plan: [Main Expo Hall](/assets/files/ExhibitHallFinal2023GlobalAppSecDC.pdf) and [Start-up Area](/assets/files/Start-UpFoyerFloorplan.pdf)
++ Exhibitor Floor Plan: [Main Expo Hall](/assets/files/ExhibitHallFinal2023GlobalAppSecDC.pdf) and [Start-up Area](/assets/files/Start-UpFoyer.pdf)
 
 ### Preparing for the Conference
 
