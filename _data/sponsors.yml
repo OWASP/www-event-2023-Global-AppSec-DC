@@ -253,3 +253,8 @@
   url: https://appsentinels.ai/
   #backgroundSize: 125px
   type: Start Up
+- logo: /assets/images/sponsors/Zimperium.png 
+  name: Zimperium
+  url: https://www.zimperium.com/
+  #backgroundSize: 125px
+  type: Gold
