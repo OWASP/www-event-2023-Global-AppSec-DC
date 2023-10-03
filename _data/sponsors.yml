@@ -258,3 +258,8 @@
   url: https://www.zimperium.com/
   #backgroundSize: 125px
   type: Gold
+- logo: /assets/images/sponsors/BlacksInCybersecurity.png
+  name: Blacks in Cybersecurity
+  url: https://www.blacksincyberconf.com/
+  #backgroundSize: 125px
+  type: Start Up
