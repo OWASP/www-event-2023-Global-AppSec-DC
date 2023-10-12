@@ -263,3 +263,8 @@
   url: https://www.blacksincyberconf.com/
   #backgroundSize: 125px
   type: Start Up
+- logo: /assets/images/sponsors/Pixee.png
+  name: Pixee
+  url: https://www.pixee.ai/
+  #backgroundSize: 125px
+  type: Start Up
