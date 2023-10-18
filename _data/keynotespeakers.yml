@@ -2,21 +2,20 @@
   name: Jackie Singh
   #title: 
   bio: >- 
-       Jackie Singh is an American security consultant whose technology interests began at an early age-she was once an active participant in an                  established New York City hacker/cyberpunk collective.
+       Jackie Singh is an American security consultant with roots in Miami and New York City's cyberpunk scenes. 
 
-       Jackie began her professional career in the U.S. Army and first deployed to Iraq as a young idealist in 2003. She then spent the better part of that        decade working in Iraq and Africa in cleared roles. Jackie previously founded a boutique cybersecurity consultancy, Spyglass Security, and has held        several significant roles in defensive cybersecurity, including Principal Consultant at Mandiant and FireEye, Global Director of Incident Response          at Intel Security and McAfee, and Senior Incident Response & Threat Analyst on the campaign to elect Joe Biden and Kamala Harris in 2020.
+       Her career journey began in the U.S. Army with an early deployment to Iraq in 2003. Over the next decade, Jackie took on roles as a technology contractor for the U.S. Department of Defense in Iraq and Africa. Previously the founder of the cybersecurity firm, Spyglass Security, Jackie has held      influencial roles in the industry. These roles include Principal Consultant at Mandiant and FireEye, Global Director of Incident Response          at Intel Security and McAfee, and Senior Incident Response & Threat Analyst for the Biden-Harris campaign.
 
-       Jackie joined the Surveillance Technology Oversight Project in 2021 due to her desire to help counter advancing threats to civil liberties posed by        surveillance technologies.
+       In 2021 Jackie joined the New York based 501c3 nonprofit Surveillance Technology Oversight Project to help address the implications of surveillence technologies on civil liberties. 
 
-       She lives between New York and San Juan with her partner, their daughters, and a goldendoodle named Ziggy.
-  #subject: 
-  #abstract: 
-- image: BestLively.jpg
+       Now, as an in demand private security consultant, she offers her expertise to a select clientele.  Residing  between New York and San Juan, Jackie enjoys life with her partner, their daughters, and Ziggy, their goldendoodle.  We are thrilled to welcome Jackie and tap into her wide ranging background at our conference.
+  subject: The Threat Actors We Forgot to Model- Profiling Socially-Motivated Cyber Criminals
+  abstract: This Halloween, delve into the eerie realm of Internet hate forums and discover the chilling, real-life tale of an unassuming man who is mercilessly pursued by a novel breed of cyber aggressor. The innovative research of our Keynote Speaker, grounded in firsthand interactions with these perpetrators, reveals the terrain of the Socially Motivated Threat Actor. These networked adversaries distinctively manipulate both digital infrastructures and human procedures, operating en masse and through specific engagements, to exert influence and inflict damage upon their selected targets. For security professionals, grasping this evolving dimension is essential for reducing uncertainty and crafting an efficient defensive approach in the face of a cyberattack.- image: BestLively.jpg
   name: Brook S.E.Schoenfield
   title: Truly Global AppSec
   bio: >- 
        Books by Brook S.E. Schoenfield include Building In Security At Agile Speed (Auerbach, 2021, co-authored with James Ransome), Secrets Of A Cyber            Security Architect (Auerbach, 2019) and Securing Systems: Applied Security Architecture and Threat Models (CRC Press, 2015). He co-authored The            Threat Modeling Manifesto (2020), Avoiding the Top 10 Security Design Flaws (IEEE, 2014) and Tactical Threat Modeling (SAFECode, 2017). He has              taught 100’s of security architects, and 1000’s have attended his threat modelling trainings. He technically led five AppSec/software security              programs and 4 consulting practices. Mr. Schoenfield is CTO, Resilient Software Security and True Positives' Chief Software Security Strategist. He helps organizations and technical leaders improve their software security practices. He also teaches at the University of Montana.
-  #subject: 
+  subject: Global AppSec- Beyond Boundaries
   abstract: >-
             Humankind are deep down the software rabbit hole. Billions of us depend upon software that doesn't expose each of us to undue risk. Our                     dependence reaches far beyond those of us rich enough to work from cafes. Herders and subsistence farmers rely on their mobile phones for                   critical services even if these people live outside the "internet bubble". Who writes this software? Tens of millions of programmers across the             globe. Most of these do not work at "Enterprises" or even SMBs (Small Medium Businesses). And yet, every single one of these programmers can               add to our collective AppSec burden, i.e., exploitable conditions. If AppSec is to be truly global, we must embrace the challenges of a world               of software and software developers in order to truly be "global".
 - image: alyssamillerheadshotappsecdc2023.png
