@@ -1,6 +1,6 @@
 - image: jackie_singh_headshot.jpg
   name: Jackie Singh
-  #title: 
+  title: The Threat Actors We Forgot to Model- Profiling Socially-Motivated Cyber Criminals  
   bio: >- 
        Jackie Singh is an American security consultant with roots in Miami and New York City's cyberpunk scenes. 
 
@@ -9,7 +9,7 @@
        In 2021 Jackie joined the New York based 501c3 nonprofit Surveillance Technology Oversight Project to help address the implications of surveillence technologies on civil liberties. 
 
        Now, as an in demand private security consultant, she offers her expertise to a select clientele.  Residing  between New York and San Juan, Jackie enjoys life with her partner, their daughters, and Ziggy, their goldendoodle.  We are thrilled to welcome Jackie and tap into her wide ranging background at our conference.
-  subject: The Threat Actors We Forgot to Model- Profiling Socially-Motivated Cyber Criminals
+  #subject: The Threat Actors We Forgot to Model- Profiling Socially-Motivated Cyber Criminals
   abstract: This Halloween, delve into the eerie realm of Internet hate forums and discover the chilling, real-life tale of an unassuming man who is mercilessly pursued by a novel breed of cyber aggressor. The innovative research of our Keynote Speaker, grounded in firsthand interactions with these perpetrators, reveals the terrain of the Socially Motivated Threat Actor. These networked adversaries distinctively manipulate both digital infrastructures and human procedures, operating en masse and through specific engagements, to exert influence and inflict damage upon their selected targets. For security professionals, grasping this evolving dimension is essential for reducing uncertainty and crafting an efficient defensive approach in the face of a cyberattack.- image: BestLively.jpg
   name: Brook S.E.Schoenfield
   title: Truly Global AppSec
