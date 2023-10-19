@@ -273,3 +273,8 @@
   url: https://tcm-sec.com/
   #backgroundSize: 125px
   type: Start Up
+- logo: /assets/images/sponsors/securelayer7.png
+  name: SecureLayer7
+  url: https://securelayer7.net/home
+  #backgroundSize: 125px
+  type: Start Up
