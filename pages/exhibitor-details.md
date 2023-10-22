@@ -60,7 +60,7 @@ This packet provides essential information, including preparing for the event, r
 + Should you wish to order any A/V, please do so directly through [Lumens](/assets/files/LumensAVOrderForm.pdf).
 
 ### Electricity
-+ If you require electricity at your expo area, please work directly with [Encore](/assets/files/MarriottMarquisWashingtonDCExhibitorKit.pdf).
++ Electricity is not included in any expo package. If you require electricity at your expo area, please work directly with [Encore](/assets/files/MarriottMarquisWashingtonDCExhibitorKit.pdf).
 
 ### Furniture Rentals
 + Additional furniture other than what is included in your expo package may be ordered directly from [Freeman](https://www.freemanco.com/store/show/landing?showID=526852)
